@@ -4,7 +4,7 @@ Note: speed is per milliseconds. For example, 0.1 seconds indicate the snake wil
 
 <img src="https://i.imgur.com/tRkj756.gif" width="500" height="500" />
 
-## Getting Started
+## Required Libraries
 
 This project is dependent on the SFML library. Please visit https://www.sfml-dev.org/ on the most updated version of SFML and instructions on how to install the library.  
 
